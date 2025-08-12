@@ -18,23 +18,12 @@ Olá, como vai? 👋
 
 
 
-![Kawwav GitHub stats](https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true&bg_color=00000000)   [![Kawwav's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Kawwav/github-readme-stats#gh-dark-mode-only)
-
-[![Kawwav's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Kawwav/github-readme-stats#gh-light-mode-only)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true" />
-</picture>
+![Kawwav GitHub stats](https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true&bg_color=00000000)   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawwav)](https://github.com/Kawwav/github-readme-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawwav&layout=pie)](https://github.com/Kawwav/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawwav&layout=pie)](https://github.com/Kawwav/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawwav)](https://github.com/Kawwav/github-readme-stats) 
+
+
 
 
