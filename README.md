@@ -5,3 +5,14 @@ Olá, como vai? 👋
 💻 Trabalhei como help desk na B2WEAR, uma empresa de varejo, onde fui responsável pela manutenção de equipamentos, pelo e-commerce e pelo controle de estoque. Também atuei como help desk na GREEN LAR, e atualmente trabalho para a VENDPAGO.
 
 👨‍💻Meu principal interesse é o desenvolvimento web com foco em front-end, e também tenho me dedicado ao gerenciamento de software.
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
