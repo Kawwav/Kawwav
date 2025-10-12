@@ -24,5 +24,5 @@ Olá, como vai? 👋
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawwav)](https://github.com/Kawwav/github-readme-stats) 
 
 
-![snake gif](https://github.com/Kawwav/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://raw.githubusercontent.com/Kawwav/Kawwav/output/snake.svg" alt="Snake animation" />
