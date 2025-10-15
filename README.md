@@ -9,7 +9,7 @@ Olá, como vai? 👋
  equipamentos, garantindo que estejam em perfeitas condições de uso, bem como pela elaboração do checklist
  dos pedidos antes do envio.
 
-👨‍💻Meu principal interesse é o desenvolvimento web com foco em front-end, e também tenho me dedicado ao gerenciamento de software.
+👨‍💻Meu principal interesse é o desenvolvimento em Python e web com foco em front-end, e também tenho me dedicado ao gerenciamento de software.
 
 
 <div style="display: inline_block"><br>
