@@ -41,21 +41,16 @@ Para dar vida aos meus projetos e criar designs modernos, utilizo as seguintes t
   <h3>📊 Minhas Estatísticas & Conquistas</h3>
   
   <p align="center">
-    <!-- Status Geral -->
     <img src="https://github-readme-stats-six-beige.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Kawwav GitHub stats" height="180" />
-    <!-- Streak de Commits -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawwav&theme=dark&hide_border=true" alt="GitHub Streak" height="180" />
   </p>
 
   <p align="center">
-    <!-- Linguagens mais utilizadas -->
     <img src="https://github-readme-stats-six-beige.vercel.app/api/top-langs/?username=Kawwav&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Langs" height="165" />
-    <!-- Card de Projeto em Destaque (Ajustado para seu repositório principal ativo) -->
     <img src="https://github-readme-stats-six-beige.vercel.app/api/pin/?username=Kawwav&repo=Kawwav&theme=dark&hide_border=true" alt="Repo em Destaque" height="165" />
   </p>
 
   <p align="center">
-    <!-- Troféus de Conquistas (Atualizado para tema mais estável) -->
     <img src="https://github-profile-trophy.vercel.app/?username=Kawwav&theme=dark&column=5&margin-w=10&margin-h=10" alt="Kawwav Trophies" height="100" />
   </p>
 
