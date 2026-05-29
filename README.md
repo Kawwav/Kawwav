@@ -29,7 +29,7 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 | 2022 – 2025 | Unicesumar | Engenharia de Software (Graduação) |
 | 2024 – 2025 | VENDPAGO | T.I. em Produção — hardware/software Payblus, vending machines |
 | 2024 | GREEN LAR / B2WEAR | Help Desk — suporte técnico, manutenção, e-commerce |
-| Atual | Freelance | Desenvolvimento Web — sites ativos no mercado desde 2022 |
+| Atual | Freelance | Desenvolvimento Web — sites ativos no mercado  |
 
 ---
 
@@ -68,8 +68,6 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kawwav&theme=onedark&column=5&margin-w=10&margin-h=10" alt="Troféus" />
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/Kawwav/Kawwav/output/snake.svg" alt="Snake animation" width="80%" />
@@ -78,6 +76,3 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 ---
 
-<div align="center">
-  <sub>Feito com ❤️ por Vinícius Kawasugui</sub>
-</div>
