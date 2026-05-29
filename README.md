@@ -41,11 +41,6 @@ Para dar vida aos meus projetos e criar designs modernos, utilizo as seguintes t
 <div align="center">
   <h3>📊 Minhas Estatísticas & Conquistas</h3>
   
-  <p align="center">
-    <img src="https://img.shields.io/github/commits-each-year/a/Kawwav?slice=0:1&style=flat-square&color=3776AB&label=Commits" alt="Commits" />
-    <img src="https://img.shields.io/github/repo-size/Kawwav/Kawwav?style=flat-square&color=F7DF1E&label=Perfil" alt="Repo Size" />
-    <img src="https://img.shields.io/github/languages/count/Kawwav/Kawwav?style=flat-square&color=25D366&label=Linguagens" alt="Languages Count" />
-  </p>
 
   <p align="center">
     <img src="https://github-readme-stats-six-beige.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Kawwav GitHub stats" height="180" />
