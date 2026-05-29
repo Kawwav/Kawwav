@@ -33,7 +33,13 @@ Descubra mais sobre a minha trajetória:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/vin%C3%ADcius-kawasugui-santiago-4171a424a/))
 
+### ⚡ Um pouco sobre mim:
 
+- 🔭 Atualmente trabalhando como **Desenvolvedor Web Freelancer**.
+- 🚀 Criando soluções digitais com foco em **Python** e **Front-end**.
+- 🎓 Graduado em **Engenharia de Software** pela Unicesumar.
+- 💬 Pergunte-me sobre: desenvolvimento de sites, automações e suporte técnico.
+- 🤔 Curiosidade: Tenho experiência prática unindo hardware (*vending machines*) e software!
 
 
 <img src="https://raw.githubusercontent.com/Kawwav/Kawwav/output/snake.svg" alt="Snake animation" />
