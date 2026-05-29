@@ -58,9 +58,10 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawwav&theme=dark&hide_border=true" alt="GitHub Streak" height="175" />
 
 <img src="https://github-readme-stats-six-beige.vercel.app/api/top-langs/?username=Kawwav&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" height="160" />
-<img src="https://github-readme-stats-six-beige.vercel.app/api/pin/?username=Kawwav&repo=Kawwav&theme=dark&hide_border=true" alt="Repo em Destaque" height="160" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kawwav&theme=dark&column=5&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Troféus" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kawwav&theme=onedark&column=5&margin-w=10&margin-h=10" alt="Troféus" />
 
 <br/>
 
@@ -70,3 +71,6 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 ---
 
+<div align="center">
+  <sub>Feito com ❤️ por Vinícius Kawasugui</sub>
+</div>
