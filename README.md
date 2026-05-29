@@ -29,7 +29,7 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 | 2022 – 2025 | Unicesumar | Engenharia de Software (Graduação) |
 | 2024 – 2025 | VENDPAGO | T.I. em Produção — hardware/software Payblus, vending machines |
 | 2024 | GREEN LAR / B2WEAR | Help Desk — suporte técnico, manutenção, e-commerce |
-| Atual | Freelance | Desenvolvimento Web — sites ativos no mercado |
+| Atual | Freelance | Desenvolvimento Web — sites ativos no mercado desde 2022 |
 
 ---
 
@@ -42,6 +42,13 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Banco de Dados & Backend**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Design & UI**
 
@@ -71,4 +78,6 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 ---
 
-
+<div align="center">
+  <sub>Feito com ❤️ por Vinícius Kawasugui</sub>
+</div>
