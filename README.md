@@ -1,29 +1,55 @@
-Olá, como vai? 👋
+<div align="center">
+  <h1>Olá, eu sou o Vinícius Kawasugui 👋</h1>
+  <p><b>Engenheiro de Software & Desenvolvedor Web Freelancer</b></p>
 
-😀 Meu nome é Vinícius Kawasugui Santiago, graduado em Engenharia de Software pela Unicesumar (2022–2025). Atualmente, atuo como Desenvolvedor Web Freelancer e Autônomo. 🎯
+  <!-- Badges de Redes Sociais e Contato -->
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-kawasugui-santiago-4171a424a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-Descubra mais sobre a minha trajetória:
+<br />
 
-💻 Desenvolvimento Web & Freelance (Atual): Meu foco principal é o desenvolvimento web (Python, Front-end e Gerenciamento de Software). Comecei a programar na faculdade em 2022 e, hoje, atuo de forma autônoma criando soluções digitais. Já possuo sites vendidos e ativos no mercado!
+### 🚀 Sobre Mim
 
-⚙️ T.I. em Produção na VENDPAGO (2024-2025): Atuei na configuração de hardware e software. Responsável pela gravação e testes funcionais de placas Payblus (módulos de pulsos/MDB), garantindo a comunicação entre vending machines e apps, além do controle de qualidade dos envios.
+Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje de forma totalmente autônoma como **Desenvolvedor Web Freelancer**. Minha trajetória une a paixão pelo código com uma forte bagagem técnica em infraestrutura de TI e produção de hardware/software:
 
-🛠️ Help Desk na GREEN LAR e B2WEAR (2024): Trabalhei no suporte técnico dessas duas empresas, cuidando da manutenção de equipamentos, sustentação de e-commerce, controle de estoque e atendimento ao usuário.
+* 💻 **Desenvolvimento Web & Freelance (Atual):** Foco total na criação de soluções digitais sob medida. Comecei a programar em 2022 na faculdade e hoje já possuo sites vendidos e ativos rodando no mercado.
+* ⚙️ **T.I. em Produção na VENDPAGO (2024–2025):** Atuei na configuração e gravação de hardware/software de placas Payblus (módulos de pulsos/MDB), validando a comunicação entre *vending machines* e aplicativos móveis.
+* 🛠️ **Help Desk na GREEN LAR e B2WEAR (2024):** Experiência em suporte técnico, manutenção de equipamentos, sustentação de e-commerce e controle de estoque.
 
-### ⚡ Um pouco sobre mim:
+---
 
-- 🔭 Atualmente trabalhando como **Desenvolvedor Web Freelancer**.
-- 🚀 Criando soluções digitais com foco em **Python** e **Front-end**.
-- 🎓 Graduado em **Engenharia de Software** pela Unicesumar.
-- 💬 Pergunte-me sobre: desenvolvimento de sites, automações e suporte técnico.
-- 🤔 Curiosidade: Tenho experiência prática unindo hardware (*vending machines*) e software!
+### 🛠️ Minha Caixa de Ferramentas
 
+Para dar vida aos meus projetos e criar designs modernos, utilizo as seguintes tecnologias:
 
+| Categoria | Tecnologias e Ferramentas |
+| :--- | :--- |
+| **Desenvolvimento** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Design / UI-UX** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
-### 🤝 Conecte-se comigo:
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/vin%C3%ADcius-kawasugui-santiago-4171a424a/))
+### ⚡ Quick Facts
 
+- 🔭 Atualmente criando projetos web focados em performance e conversão com **Python** e **Front-end**.
+- 💬 Pergunte-me sobre: desenvolvimento de sites, automações e como alinhar software ao seu negócio.
+- 🤔 Curiosidade: Tenho facilidade em conectar o mundo do hardware físico ao software mobile.
 
+---
 
-<img src="https://raw.githubusercontent.com/Kawwav/Kawwav/output/snake.svg" alt="Snake animation" />
+<!-- Seção Visual Centralizada (Estatísticas e Animação) -->
+<div align="center">
+  <h3>📊 Minhas Estatísticas</h3>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Kawwav GitHub stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawwav&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="180" />
+  </p>
+
+  <br />
+  
+  <!-- Jogo da Cobrinha (Contribuições) -->
+  <img src="https://raw.githubusercontent.com/Kawwav/Kawwav/output/snake.svg" alt="Snake animation" width="80%" />
+</div>
