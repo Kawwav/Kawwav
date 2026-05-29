@@ -17,7 +17,6 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 - 🔭 Desenvolvendo projetos web com **Python** e tecnologias Front-end modernas
 - 🛠️ Experiência que une software, hardware e infraestrutura de TI
-- 💡 Facilidade em conectar o mundo físico do hardware ao software mobile
 - 💬 Fale comigo sobre: desenvolvimento de sites, automações e alinhamento de software ao seu negócio
 
 ---
