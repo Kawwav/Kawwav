@@ -71,6 +71,4 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 ---
 
-<div align="center">
-  <sub>Feito com ❤️ por Vinícius Kawasugui</sub>
-</div>
+
