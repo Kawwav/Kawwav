@@ -1,15 +1,14 @@
 Olá, como vai? 👋
 
-😀 Meu nome é Vinícius Kawasugui Santiago, estudante de Engenharia de Software na Unicesumar (2022-2025).
+😀 Meu nome é Vinícius Kawasugui Santiago, graduado em Engenharia de Software pela Unicesumar (2022–2025). Atualmente, atuo como Desenvolvedor Web Freelancer e Autônomo. 🎯
 
-💻 Trabalhei como help desk na B2WEAR, uma empresa de varejo, onde fui responsável pela manutenção de equipamentos, pelo e-commerce e pelo controle de estoque. Também atuei como help desk na GREEN LAR, e atualmente trabalho para a VENDPAGO. Efetuo a gravação e configuração de placas Payblus, adequando-as às suas funções específicas, como módulos
- de pulsos e interface MDB.
- Realizo testes funcionais para validar o desempenho das placas e asseguro a comunicação correta entre a
- vending machine e os aplicativos móveis. Além disso, sou responsável pela separação e verificação dos
- equipamentos, garantindo que estejam em perfeitas condições de uso, bem como pela elaboração do checklist
- dos pedidos antes do envio.
+Descubra mais sobre a minha trajetória:
 
-👨‍💻Meu principal interesse é o desenvolvimento em Python e web com foco em front-end, e também tenho me dedicado ao gerenciamento de software.
+💻 Desenvolvimento Web & Freelance (Atual): Meu foco principal é o desenvolvimento web (Python, Front-end e Gerenciamento de Software). Comecei a programar na faculdade em 2022 e, hoje, atuo de forma autônoma criando soluções digitais. Já possuo sites vendidos e ativos no mercado!
+
+⚙️ T.I. em Produção na VENDPAGO (2024-2025): Atuei na configuração de hardware e software. Responsável pela gravação e testes funcionais de placas Payblus (módulos de pulsos/MDB), garantindo a comunicação entre vending machines e apps, além do controle de qualidade dos envios.
+
+🛠️ Help Desk na GREEN LAR e B2WEAR (2024): Trabalhei no suporte técnico dessas duas empresas, cuidando da manutenção de equipamentos, sustentação de e-commerce, controle de estoque e atendimento ao usuário.
 
 
 <div style="display: inline_block"><br>
