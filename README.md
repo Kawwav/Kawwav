@@ -43,9 +43,11 @@ Para dar vida aos meus projetos e criar designs modernos, utilizo as seguintes t
   <h3>📊 Minhas Estatísticas</h3>
   
   <p align="center">
-
+    <!-- Card de Status Geral (Servidor Alternativo) -->
     <img src="https://github-readme-stats-six-beige.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Kawwav GitHub stats" height="180" />
-   
+    
+    <!-- Card de Consistência/Streak de Commits (Muito estável e valorizado por clientes) -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawwav&theme=dark&hide_border=true" alt="GitHub Streak" height="180" />
   </p>
 
   <br />
