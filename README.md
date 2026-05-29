@@ -41,14 +41,23 @@ Para dar vida aos meus projetos e criar designs modernos, utilizo as seguintes t
 <div align="center">
   <h3>📊 Minhas Estatísticas & Conquistas</h3>
   
-
   <p align="center">
+    <!-- Status Geral -->
     <img src="https://github-readme-stats-six-beige.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Kawwav GitHub stats" height="180" />
+    <!-- Streak de Commits -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawwav&theme=dark&hide_border=true" alt="GitHub Streak" height="180" />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kawwav&theme=midnight&column=4&margin-w=10&margin-h=10&no-bg=true" alt="Kawwav Trophies" height="100" />
+    <!-- Linguagens mais utilizadas (NOVO) -->
+    <img src="https://github-readme-stats-six-beige.vercel.app/api/top-langs/?username=Kawwav&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Langs" height="165" />
+    <!-- Card de Projeto em Destaque (NOVO - Altere 'NOME-DO-SEU-REPOSITORIO-PRINCIPAL' pelo repositório do seu melhor site) -->
+    <img src="https://github-readme-stats-six-beige.vercel.app/api/pin/?username=Kawwav&repo=NOME-DO-SEU-REPOSITORIO-PRINCIPAL&theme=dark&hide_border=true" alt="Repo em Destaque" height="165" />
+  </p>
+
+  <p align="center">
+    <!-- Troféus de Conquistas -->
+    <img src="https://github-profile-trophy.vercel.app/?username=Kawwav&theme=midnight&column=5&margin-w=10&margin-h=10&no-bg=true" alt="Kawwav Trophies" height="100" />
   </p>
 
   <br />
