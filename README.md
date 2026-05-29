@@ -39,17 +39,17 @@ Para dar vida aos meus projetos e criar designs modernos, utilizo as seguintes t
 
 ---
 
-<!-- Seção Visual Centralizada (Estatísticas e Animação) -->
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Kawwav GitHub stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawwav&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="180" />
+
+    <img src="https://github-readme-stats-six-beige.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Kawwav GitHub stats" height="180" />
+   
   </p>
 
   <br />
   
-  <!-- Jogo da Cobrinha (Contribuições) -->
+  <!-- Jogo da Cobrinha -->
   <img src="https://raw.githubusercontent.com/Kawwav/Kawwav/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
