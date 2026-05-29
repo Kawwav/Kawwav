@@ -20,24 +20,6 @@ Descubra mais sobre a minha trajetória:
 
 
 
-<div align="center">
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="40" style="margin-left: 10px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" style="margin-left: 10px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" style="margin-left: 10px;" />
-  </p>
-
-  <br />
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Kawwav GitHub stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawwav&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="180" />
-  </p>
-
-</div>
-
 ### 🤝 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/vin%C3%ADcius-kawasugui-santiago-4171a424a/))
