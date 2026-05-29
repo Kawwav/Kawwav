@@ -18,16 +18,7 @@ Descubra mais sobre a minha trajetória:
 - 💬 Pergunte-me sobre: desenvolvimento de sites, automações e suporte técnico.
 - 🤔 Curiosidade: Tenho experiência prática unindo hardware (*vending machines*) e software!
 
-### 🛠️ Minhas Tecnologias & Ferramentas:
-
-**Front-end & Back-end:**
-- HTML5 / CSS3 / JavaScript
-- Python (Django / Flask)
-
-**Infraestrutura, Hardware & Suporte:**
-- Configuração de Placas Payblus (MDB / Módulos de pulso)
-- Controle de Estoque & E-commerce
-- Suporte Help Desk / Manutenção de TI
+![Views](https://komarev.com/ghvc/?username=Kawwav&color=blue&style=flat-square)
 
 <div align="center">
 
