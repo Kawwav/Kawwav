@@ -7,7 +7,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
 ## 🧑‍💻 Sobre Mim
 
@@ -23,7 +23,7 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 - 🛠️ Experiência que une software, hardware e infraestrutura de TI
 - 💬 Fale comigo sobre: desenvolvimento de sites, automações e alinhamento de software ao seu negócio
 
----
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
 ## 🗂️ Trajetória
 
@@ -34,7 +34,7 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 | 2024 | GREEN LAR / B2WEAR | Help Desk — suporte técnico, manutenção, e-commerce |
 | Atual - 2026 | Freelance | Desenvolvimento Web — sites ativos no mercado |
 
----
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
 ## 🛠️ Stack
 
@@ -58,7 +58,7 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
 ## 📊 Estatísticas
 
@@ -77,4 +77,4 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=scaleIn" width="100%"/>
