@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Freelancer;Python+%2B+Front-end+Moderno;Software+%2B+Hardware+%2B+Infra+de+TI;Sites+ativos+no+mercado+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Freelancer;Figma+%2B+Front-end+WebDesigner;Software+%2B+Hardware+%2B+Sites+ativos+no+mercado+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
