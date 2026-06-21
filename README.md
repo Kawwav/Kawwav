@@ -28,7 +28,7 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 | 2022 – 2025 | Unicesumar | Engenharia de Software (Graduação) |
 | 2024 – 2025 | VENDPAGO | T.I. em Produção — hardware/software Payblus, vending machines |
 | 2024 | GREEN LAR / B2WEAR | Help Desk — suporte técnico, manutenção, e-commerce |
-| Atual | Freelance | Desenvolvimento Web — sites ativos no mercado  |
+| Atual - 2026 | Freelance | Desenvolvimento Web — sites ativos no mercado  |
 
 ---
 
