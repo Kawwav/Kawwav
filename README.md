@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Vinícius%20Kawasugui&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20%26%20Desenvolvedor%20Web%20Freelancer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Vinicius%20Kawasugui&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20e%20Desenvolvedor%20Web%20Freelancer&descAlignY=58&descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-kawasugui-santiago-4171a424a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kawwav)
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Freelancer;Figma+%2B+Front-end+WebDesigner;Software+%2B+Hardware+%2B+Sites+ativos+no+mercado+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Freelancer;Python+%2B+Front-end+Moderno;Software+%2B+Hardware+%2B+Infra+de+TI;Sites+ativos+no+mercado+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
