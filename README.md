@@ -1,8 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Vinícius Kawasugui 👋
-
-**Engenheiro de Software & Desenvolvedor Web Freelancer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Vinícius%20Kawasugui&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20%26%20Desenvolvedor%20Web%20Freelancer&descAlignY=58&descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-kawasugui-santiago-4171a424a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kawwav)
@@ -12,6 +10,12 @@
 ---
 
 ## 🧑‍💻 Sobre Mim
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Freelancer;Python+%2B+Front-end+Moderno;Software+%2B+Hardware+%2B+Infra+de+TI;Sites+ativos+no+mercado+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje como **Desenvolvedor Web Freelancer**, criando soluções digitais sob medida com foco em performance e conversão.
 
@@ -28,7 +32,7 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 | 2022 – 2025 | Unicesumar | Engenharia de Software (Graduação) |
 | 2024 – 2025 | VENDPAGO | T.I. em Produção — hardware/software Payblus, vending machines |
 | 2024 | GREEN LAR / B2WEAR | Help Desk — suporte técnico, manutenção, e-commerce |
-| Atual - 2026 | Freelance | Desenvolvimento Web — sites ativos no mercado  |
+| Atual - 2026 | Freelance | Desenvolvimento Web — sites ativos no mercado |
 
 ---
 
@@ -62,11 +66,9 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 <img src="https://github-readme-stats-six-beige.vercel.app/api?username=Kawwav&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="175" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kawwav&theme=dark&hide_border=true" alt="GitHub Streak" height="175" />
-
 <img src="https://github-readme-stats-six-beige.vercel.app/api/top-langs/?username=Kawwav&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" height="160" />
 
 <br/>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/Kawwav/Kawwav/output/snake.svg" alt="Snake animation" width="80%" />
@@ -75,3 +77,4 @@ Graduado em **Engenharia de Software** pela Unicesumar (2022–2025), atuo hoje 
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" width="100%"/>
